@@ -15,7 +15,7 @@ hidden: true
 My team developed a collaborative-based recommender system via Alternating Least Squares and a content-based recommender system using restaurant reviews scraped from the Zomato website. The recommendations generated can be used by restaurant owners and customers in maximizing the platform. 
 
 This project is very memorable for me because I presented for the first time in public. It was nerve wracking but overall it was fulfilling.
-![BDCC_Presentation](assets/images/BDCC_Presentation.jpg)
+![BDCC Presentation](assets/images/BDCC_Presentation.jpg)
 
 >This project is for the fulfillment of the requirements in our Big Data and Cloud Computing course.
 
