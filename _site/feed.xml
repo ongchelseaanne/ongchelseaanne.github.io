@@ -5,9 +5,54 @@
     <description>Chelsea's 14-month Data Science Journey at Asian Institute of Management</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jun 2020 16:23:44 +0800</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2020 16:23:44 +0800</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2020 16:45:48 +0800</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2020 16:45:48 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Uncovering Similarities between recipes</title>
+        <description>&lt;p&gt;&lt;strong&gt;Subject/s of Focus: Data Mining and Wrangling&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Authors: Gilbert Chua, Chelsea Ong, Jomilynn Rebanal, Van Yu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This project is for the fulfillment of the requirements in our Data Mining and Wrangling course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;Recipes are the blueprint for a dish and changes in the ingredients may either enrich or worsen the taste. Recipe tweaking due to the unavailability of certain ingredients is a common dilemma among home cooks and restauranteurs. In this study, the researchers explored more than 38,000 recipes scraped from allrecipes.com to answer the question “What are the similarities between recipes based on their ingredients?”&lt;/p&gt;
+
+&lt;p&gt;The dataset included 2,175 ingredients and each ingredient was treated as a categorical feature. Given the features’ data type, one-hot encoding was used in vectorization. The recipes underwent feature reduction using principal component analysis (PCA) at 80% explained variance. Assuming no prior knowledge on the recipes, the researchers analyzed the natural clusters of recipes through K-means since this method is intuitive and computationally efficient.&lt;/p&gt;
+
+&lt;p&gt;Based on the internal validation criteria, six (6) seemed to be the optimal number of clusters. Notably, this study revealed that recipes clustered based on broad flavor profiles (Pungent, Sweet, Savory, Hearty, Simple) and on the number of ingredients used (Easy).&lt;/p&gt;
+
+&lt;p&gt;The generated clusters here can be used as an alternate classification system that is more based on flavor profiles as opposed to using ingredients and cuisine to group recipes together. Classification via flavor profiles may provide a novel and more intuitive method of catering to the tastes of customers. Moreover, results of this study can serve as an input to a food recommender system and as a cornerstone for future food anthropologic studies.&lt;/p&gt;
+
+&lt;h4 id=&quot;note&quot;&gt;Note:&lt;/h4&gt;
+&lt;p&gt;To see the files and codes used for this project, click &lt;a href=&quot;https://github.com/ongchelseaanne/Classifying-Food-Images-using-Deep-Learning&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For questions and inquiries, you may send me a message via &lt;a href=&quot;https://www.linkedin.com/in/ongchelseaanne&quot;&gt;Linked in&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/clustering-recipes/</link>
+        <guid isPermaLink="true">http://localhost:4000/clustering-recipes/</guid>
+        
+        <category>food</category>
+        
+        <category>recipes</category>
+        
+        <category>ingredients</category>
+        
+        <category>cooking</category>
+        
+        
+        <category>Data Mining and Wrangling</category>
+        
+        <category>Web Scraping</category>
+        
+        <category>Clustering</category>
+        
+      </item>
     
       <item>
         <title>Personalized Recommendation System using Collaborative Filtering of Zomato Restaurant Reviews</title>
