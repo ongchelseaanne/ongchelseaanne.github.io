@@ -5,8 +5,8 @@
     <description>Chelsea's 14-month Data Science Journey at Asian Institute of Management</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jun 2020 16:00:32 +0800</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2020 16:00:32 +0800</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2020 16:23:44 +0800</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2020 16:23:44 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,7 +18,7 @@
 &lt;p&gt;My team developed a collaborative-based recommender system via Alternating Least Squares and a content-based recommender system using restaurant reviews scraped from the Zomato website. The recommendations generated can be used by restaurant owners and customers in maximizing the platform.&lt;/p&gt;
 
 &lt;p&gt;This project is very memorable for me because I presented for the first time in public. It was nerve wracking but overall it was fulfilling.
-&lt;img src=&quot;/assets/images/BDCC Presentation.jpg&quot; alt=&quot;BDCC_Presentation&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/BDCC_Presentation.jpg&quot; alt=&quot;BDCC Presentation&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;This project is for the fulfillment of the requirements in our Big Data and Cloud Computing course.&lt;/p&gt;
