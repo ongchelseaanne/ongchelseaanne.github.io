@@ -8,6 +8,7 @@ tag: [restaurant, zomato, food, spark]
 featured: true
 hidden: true
 ---
+**Subject/s of Focus: Big Data and Cloud Computing**
 
 **Authors: James Labergas, Chelsea Ong, Lance Sy, Maisie Tan**
 

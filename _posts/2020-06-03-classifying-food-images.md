@@ -4,12 +4,16 @@ title:  "Classifying Food Images using Deep Learning"
 author: Chelsea
 categories: [ Deep Learning, CNN, Web Application]
 tags: [food, images, tensorflow, keras]
-image: assets/images/background.jpg
+image: assets/images/2.jpg
 # description: "Author: Chelsea Anne S. Ong"
 # featured: true
 # hidden: true
 ---
+**Subject/s of Focus: Deep Learning**
+
 **Author: Chelsea Anne S. Ong**
+
+>This project is for the fulfillment of the requirements in our Deep Learning course.
 
 # Executive Summary
 A certain image does not only necessarily represent a single attribute and most of the time it represents more than two. In other words, there can be multiple titles or labels that can be given for a single image. This problem is called multi-label classification which is used for content retrieval and scene understanding among few. For this study, a multi label classification algorithm is applied on food images using Keras (with Tensorflow backend). A simple CNN model is altered to give way to multi label classification. To make things easier, pre-trained CNN models are used particularly ResNet50, MobileNet, DenseNet121, and Xception. Afterwards, comparison of these results shall be done with Nanonets Multi Label Classification API. The results show a better F1 score at **75.06%** for Nanonets and only about **70.46%** for Xception model. Both of these models can be used for deployment as they both display intuitive and sound results. 
