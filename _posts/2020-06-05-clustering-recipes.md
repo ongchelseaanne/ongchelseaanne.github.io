@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Uncovering Similarities between recipes"
+author: Chelsea
 categories: [ Data Mining and Wrangling, Web Scraping, Clustering]
 tags: [food, recipes, ingredients, cooking]
 image: assets/images/1.jpg
@@ -21,6 +22,4 @@ Based on the internal validation criteria, six (6) seemed to be the optimal numb
 The generated clusters here can be used as an alternate classification system that is more based on flavor profiles as opposed to using ingredients and cuisine to group recipes together. Classification via flavor profiles may provide a novel and more intuitive method of catering to the tastes of customers. Moreover, results of this study can serve as an input to a food recommender system and as a cornerstone for future food anthropologic studies.
 
 #### Note:
-To see the files and codes used for this project, click [here](https://github.com/ongchelseaanne/Classifying-Food-Images-using-Deep-Learning) 
-
-For questions and inquiries, you may send me a message via [Linked in](https://www.linkedin.com/in/ongchelseaanne) 
+For more information on the files and codes used for this project, you may send me a message via [Linked in](https://www.linkedin.com/in/ongchelseaanne)  

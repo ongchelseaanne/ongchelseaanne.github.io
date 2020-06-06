@@ -5,8 +5,8 @@
     <description>Chelsea's 14-month Data Science Journey at Asian Institute of Management</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jun 2020 16:45:48 +0800</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2020 16:45:48 +0800</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2020 21:10:16 +0800</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2020 21:10:16 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -29,9 +29,7 @@
 &lt;p&gt;The generated clusters here can be used as an alternate classification system that is more based on flavor profiles as opposed to using ingredients and cuisine to group recipes together. Classification via flavor profiles may provide a novel and more intuitive method of catering to the tastes of customers. Moreover, results of this study can serve as an input to a food recommender system and as a cornerstone for future food anthropologic studies.&lt;/p&gt;
 
 &lt;h4 id=&quot;note&quot;&gt;Note:&lt;/h4&gt;
-&lt;p&gt;To see the files and codes used for this project, click &lt;a href=&quot;https://github.com/ongchelseaanne/Classifying-Food-Images-using-Deep-Learning&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For questions and inquiries, you may send me a message via &lt;a href=&quot;https://www.linkedin.com/in/ongchelseaanne&quot;&gt;Linked in&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information on the files and codes used for this project, you may send me a message via &lt;a href=&quot;https://www.linkedin.com/in/ongchelseaanne&quot;&gt;Linked in&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Jun 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/clustering-recipes/</link>
@@ -102,6 +100,10 @@
 
 &lt;p&gt;&lt;strong&gt;Author: Chelsea Anne S. Ong&lt;/strong&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;This project is for the fulfillment of the requirements in our Machine Learning course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;One way a nation distinguishes itself is through its geographical and cultural ties which includes local foods and ingredients. Because of these, some ingredients are strongly associated with a particular cuisine. For example, sushi is automatically categorized as japanese cuisine. Classification is easy for common dishes, but not for the not-so-common ones. Using lists of ingredients, the machine learning model is able to predict the correct cuisines 66.5% using L2 Linear Support Vector Machines (Linear SVM) with C=0.1. &lt;strong&gt;Chinese Cuisine turned out the be the easiest to predict&lt;/strong&gt; and Southern US the hardest. On the other hand, misclassifications occur mostly in British Cuisines which are predicted as Irish or Russian cuisines and Thai cuisines are predicted as Vietnamese cuisines. As a restaurateur or a chef, cuisine classification is important to establish their niche or delve into fusion cuisines. In addition, they can optimize their ingredients to avoid spoilage.&lt;/p&gt;
 
@@ -109,10 +111,6 @@
 &lt;p&gt;Whenever I cook or eat, what comes to mind is what I find myself craving whether Japanese, Chinese, or Filipino food. After I decided on a cuisine, that’s when I decide on what specific food on that cuisine I would choose. What makes a dish aside from how it is prepared are its ingredients. How does the list of ingredients dictate the dish’s cuisine?&lt;/p&gt;
 
 &lt;p&gt;Using the data gathered from the kaggle competition “What cooking?”, which contains the list of ingredients for each dish, the target would be the cuisine (e.g. Chinese, American, Filipino). The dataset contains 39774 dishes from 20 cuisines. By virtue of machine learning, various machine learning classification algorithms shall be implemented and compare their accuracies. The main objective is to figure out what algorithm will have the highest accuracy and how accurate it is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This project is for the fulfillment of the requirements in our Machine Learning course.&lt;/p&gt;
-&lt;/blockquote&gt;
 
 &lt;h4 id=&quot;note&quot;&gt;Note:&lt;/h4&gt;
 &lt;p&gt;To see the files and codes used for this project, click &lt;a href=&quot;https://github.com/ongchelseaanne/Uncovering-Cuisines-Based-on-Ingredients&quot;&gt;here&lt;/a&gt;&lt;/p&gt;

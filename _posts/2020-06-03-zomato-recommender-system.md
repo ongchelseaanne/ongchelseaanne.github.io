@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Personalized Recommendation System using Collaborative Filtering of Zomato Restaurant Reviews"
-# author: Chelsea
+author: Chelsea
 categories: [ Big Data, Recommender System, Cloud Computing]
 image: assets/images/Zomato_Banner.jpg
 tag: [restaurant, zomato, food, spark]
