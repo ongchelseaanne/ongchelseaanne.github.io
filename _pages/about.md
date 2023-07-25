@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about
+permalink: /about-me
 comments: false
 ---
 
@@ -18,7 +18,10 @@ comments: false
 
 <p>Now that the pandemic has forced people to stay home as much as possible, I have been in a continuous learning mode for Data Science. At the same time, I also have rekindled my hobby for cooking which had been set aside due to my busy schedule. </p>
 
->For collaboration and job opportunities, please feel free to message me on [Linkedin](https://www.linkedin.com/in/ongchelseaanne) or write me an e-mail at ongchelseaanne@gmail.com. 
+**Skills**: *Natural Language Processing, Time-Series Analysis, Forecasting, Machine Learning*
+**Primary Tech Stack Used**: *Python, Tensorflow, Scikit-learn, Javascript, HTML, CSS, Flask, AWS*
+
+>For collaboration and job opportunities, please feel free to message me on [Linkedin](https://www.linkedin.com/in/ongchelseaanne) or write me an e-mail at ongchelseaanne@gmail.com.
 
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
@@ -27,7 +30,7 @@ comments: false
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4> 
+<h4>Questions or bug reports?</h4>
 
 <p>Head over to my <a href="https://github.com/ongchelseaanne">Github repository</a>!</p>
 
