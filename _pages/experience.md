@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /experience
+permalink: /about-me
 comments: false
 ---
 
